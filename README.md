@@ -10,8 +10,8 @@ A simple cross-platform tool to visualize **GROMACS** `.xvg` analysis files (RMS
 ## 🧩 Installation
 ### Option 1: Download Executable
 No Python needed — just download the latest release:
-- [xvg_analyzer.exe (Windows)](https://github.com/yourusername/xvg-analyzer/releases)
-- [xvg_analyzer (Linux)](https://github.com/yourusername/xvg-analyzer/releases)
+- [xvg_analyzer.exe (Windows)](https://github.com/mdAdnn/XVG_Analyzer.git)
+- [xvg_analyzer (Linux)](https://github.com/mdAdnn/XVG_Analyzer.git)
 
 ### Option 2: Run from Source
 ```bash
