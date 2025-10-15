@@ -1,5 +1,5 @@
-# XVG Plotter 🎨
-A simple cross-platform tool to visualize GROMACS `.xvg` analysis files (RMSD, RMSF, Rg, Area, etc.).
+# XVG Analyzer 🎨
+A simple cross-platform tool to visualize **GROMACS** `.xvg` analysis files (RMSD, RMSF, Radius of Gyration (RoG), Area, etc.).
 
 ## 🚀 Features
 - Compare WT vs Mutant simulations
@@ -10,12 +10,12 @@ A simple cross-platform tool to visualize GROMACS `.xvg` analysis files (RMSD, R
 ## 🧩 Installation
 ### Option 1: Download Executable
 No Python needed — just download the latest release:
-- [xvg_plotter.exe (Windows)](https://github.com/yourusername/xvg-plotter/releases)
-- [xvg_plotter (Linux)](https://github.com/yourusername/xvg-plotter/releases)
+- [xvg_analyzer.exe (Windows)](https://github.com/yourusername/xvg-analyzer/releases)
+- [xvg_analyzer (Linux)](https://github.com/yourusername/xvg-analyzer/releases)
 
 ### Option 2: Run from Source
 ```bash
-git clone https://github.com/yourusername/xvg-plotter.git
-cd xvg-plotter
+git clone https://github.com/yourusername/xvg-analyzer.git
+cd xvg-analyzer
 pip install -r requirements.txt
-python xvg_plotter.py
+python xvg_analyzer.py
