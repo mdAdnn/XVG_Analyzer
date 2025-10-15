@@ -1,0 +1,39 @@
+# ----------------------
+# Python
+# ----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ----------------------
+# Virtual environment
+# ----------------------
+venv/
+ENV/
+env/
+*.egg-info/
+
+# ----------------------
+# PyInstaller / EXE build
+# ----------------------
+build/
+dist/
+*.spec
+
+# ----------------------
+# Output / temporary files
+# ----------------------
+plots/
+*.log
+*.tmp
+
+# ----------------------
+# OS / IDE files
+# ----------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.sublime-workspace
+*.sublime-project
+.vscode/
